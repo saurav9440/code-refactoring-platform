@@ -60,6 +60,7 @@ Navigate to `http://localhost:5173` in your browser. Paste some messy code, hit 
 If you prefer Docker, you can spin up the entire stack with one command:
 ```bash
 docker-compose up --build
-```<img width="1918" height="900" alt="Screenshot 2026-04-28 213057" src="https://github.com/user-attachments/assets/b416970c-73ff-4c97-a450-4ae7c23fee28" />
+```
+<img width="1918" height="900" alt="Screenshot 2026-04-28 213057" src="https://github.com/user-attachments/assets/b416970c-73ff-4c97-a450-4ae7c23fee28" />
 <img width="1919" height="896" alt="Screenshot 2026-04-28 213038" src="https://github.com/user-attachments/assets/c5108f03-1ecb-4735-9f0b-97efd399c75d" />
 
